@@ -9,26 +9,25 @@ public class exampleone
     int b=8;
 
     //Addition
-
     int sum = a+b;
 
     //subtraction
-    int sub=a-b;
+    int difference=a-b;
 
     //multiplication
-    int pro=a*b;
+    int product=a*b;
 
     //division
-    double div=a/b;
+    int quotient=a/b;
 
 
 System.out.println("The sum is :" + sum);
 
- System.out.println("The sub is :" + sub);       
+ System.out.println("The difference is :" + difference);       
 
-System.out.println("The product is :" + pro);
+System.out.println("The product is :" + product);
 
-System.out.println("The division is :" + div);
+System.out.println("The quotient is :" + quotient);
 
 }
     }
