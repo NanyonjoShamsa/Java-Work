@@ -1,4 +1,4 @@
-public class exampleTwelve {
+public class exercise 2 {
     // MethodOverloadingExample
     // Method to display an integer
     public static void display(int number) {
@@ -12,7 +12,7 @@ public class exampleTwelve {
 
     public static void main(String[] args) {
         // Call the overloaded methods
-        display(42); // Output: The number is: 42
-        display("Jeff Geoff"); // Output: The text is: Jeff Geoff
+        display(23); // Output: The number is: 23
+        display("Shamsa"); // Output: The text is: Shamsa
     }
 }
