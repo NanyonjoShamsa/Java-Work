@@ -1,4 +1,4 @@
-public class exampleEleven {
+public class exercise {
 
     // Define a method with parameters
     public static void addNumbers(int a, int b) {
