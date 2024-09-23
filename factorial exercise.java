@@ -1,4 +1,4 @@
-public class exampleEight {
+public class exercise 1{
 
     // Recursive method to calculate factorial
     public static int factorial(int n) {
