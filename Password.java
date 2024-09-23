@@ -3,10 +3,10 @@
 
 import java.util.Scanner;
 
-public class exampleSix {
+public class control statements exercise{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String correctPassword = "Joseph123";
+        String correctPassword = "@Shmz874";
         int attempts = 3;
 
         while (attempts > 0) {
