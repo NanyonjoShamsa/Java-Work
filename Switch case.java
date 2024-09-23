@@ -2,7 +2,7 @@
 // Example4: Grade  using switch statement
 import java.util.Scanner;
 
-public class exampleFour {
+public class Switch case exercise {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter marks: ");
